@@ -155,10 +155,7 @@ Desktop.ini
 output/
 outputs/
 converted/
-*.md
-*.txt
-*.json
-*.csv
+# Note: README.md is not ignored
 
 # Temporary files
 *.tmp
